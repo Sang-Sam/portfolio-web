@@ -1,10 +1,11 @@
+
 # My Portfolio Website
 
 Welcome to my personal portfolio website! This site showcases my skills, projects, and achievements. It provides a brief overview of my work, technical expertise, and contact information.
 
 ## Preview
 
-You can view the live version of my portfolio at ((https://Sang-Sam.github.io/portfolio-web)).
+You can view the live version of my portfolio at [https://Sang-Sam.github.io/portfolio-web](https://Sang-Sam.github.io/portfolio-web).
 
 ## Features
 
@@ -20,19 +21,32 @@ To run this portfolio website locally on your machine, follow these steps:
 
 Clone the repository to your local machine:
 
-###2. Install Dependencies
+```bash
+git clone https://github.com/Sang-Sam/portfolio-web.git
+```
+
+### 2. Install Dependencies
+
 Navigate to the project folder and install the required dependencies:
 
-cd repository-name
+```bash
+cd portfolio-web
 npm install
+```
 
-###3. Start the Development Server
+### 3. Start the Development Server
+
 Once the dependencies are installed, start the development server:
+
+```bash
 npm start
+```
 
-This will launch the website locally in your browser at http://localhost:3000.
+This will launch the website locally in your browser at [http://localhost:3000](http://localhost:3000).
 
-##Technologies Used
-React: A JavaScript library for building user interfaces.
-React Bootstrap: For responsive and sleek UI components.
-CSS: For custom styling to enhance the visual appeal of the site.
+## Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **React Bootstrap**: For responsive and sleek UI components.
+- **CSS**: For custom styling to enhance the visual appeal of the site.
+
