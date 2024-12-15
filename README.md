@@ -20,19 +20,19 @@ To run this portfolio website locally on your machine, follow these steps:
 
 Clone the repository to your local machine:
 
-#2. Install Dependencies
+###2. Install Dependencies
 Navigate to the project folder and install the required dependencies:
 
 cd repository-name
 npm install
 
-#3. Start the Development Server
+###3. Start the Development Server
 Once the dependencies are installed, start the development server:
 npm start
 
 This will launch the website locally in your browser at http://localhost:3000.
 
-#Technologies Used
+##Technologies Used
 React: A JavaScript library for building user interfaces.
 React Bootstrap: For responsive and sleek UI components.
 CSS: For custom styling to enhance the visual appeal of the site.
